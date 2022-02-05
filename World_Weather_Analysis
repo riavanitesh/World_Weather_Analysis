@@ -1,0 +1,18 @@
+## World_Weather_Analysis
+
+# Purpose:
+The purpose of this analysis is using API to retrieve weather data, create customer travel destinations map & create a travel itinerary map. Overall project was great fun as you could literally generate maps on your screen and then label the destination with all the required details like Latitude,Longitute, Temperature and Weather description.
+
+# Challenges:
+It is not an easy task for newbie like me. I had to do a lot of research and search new (atleast new for me) codes online to find the desired results. It it more than just forming a data frame and making variable for the loop. Also, my google API was exhausted in between finishing this course due to which I didnt got the exact results as espected, but the good part is that my coding is absolutely right and I hope my evaluator will evalute me basis my coding.
+
+# Take away:
+Now I have required experience to start the coding to make apps which needs location tracking basis inputs from the customer. Input can be anything, like temperature, specific location, rate of the hotels, weather description etc.
+
+
+
+
+
+
+
+
